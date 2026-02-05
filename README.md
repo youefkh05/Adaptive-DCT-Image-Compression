@@ -100,6 +100,13 @@ Where `MSE` is the mean squared error between the original and reconstructed ima
 - OpenCV
 - Matplotlib
 
+## 📁 Repository Structure
+- `data/`       : Input images and preprocessing outputs  
+- `code/`       : Core DSP implementation  
+- `results/`    : Reconstructed images, heatmaps, and plots  
+- `report/`     : Final report and figures  
+
+
 ---
 
 ## 👥 Team
