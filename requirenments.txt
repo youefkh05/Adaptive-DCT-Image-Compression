@@ -1,2 +1,2 @@
-pip install numpy opencv-python matplotlib scipy
+pip install numpy opencv-python matplotlib scipy pandas
 .\dsp-image\Scripts\Activate.ps1
