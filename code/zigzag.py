@@ -1,11 +1,14 @@
 import os
 import numpy as np
 
+
 # =======================
-# Configuration
+# Configuration (Relative Paths)
 # =======================
-INPUT_DIR = r"D:\project\DSP\Adaptive-DCT-Image-Compression\results\dct_blocks_csv"
-OUTPUT_DIR = r"D:\project\DSP\Adaptive-DCT-Image-Compression\results\zigzag_csv"
+
+INPUT_DIR = r"..\results\dct_blocks_csv"
+OUTPUT_DIR = r"..\results\zigzag_csv"
+
 
 BLOCK_SIZES = [8, 16, 32, 64]
 

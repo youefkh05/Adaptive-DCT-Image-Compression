@@ -5,8 +5,8 @@ import numpy as np
 # =======================
 # Configuration
 # =======================
-INPUT_DIR = r"D:\project\DSP\Adaptive-DCT-Image-Compression\data"
-OUTPUT_DIR = r"D:\project\DSP\Adaptive-DCT-Image-Compression\data\pre"
+INPUT_DIR = r"..\data"
+OUTPUT_DIR = r"..\data\pre"
 
 BLOCK_SIZES = [8, 16, 32, 64]
 
